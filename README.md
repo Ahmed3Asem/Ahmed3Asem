@@ -29,12 +29,6 @@
 
 ---
 
-## 🧠 Tech Usage  
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmed3Asem&layout=compact&theme=tokyonight)
-
----
-
 ### 📌 Projects
 
 **🔹 Genesis System**
