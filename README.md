@@ -29,10 +29,9 @@ Hi 👋, I'm Ahmed Asem
 
 ---
 
-📊 GitHub Activity
+📊 GitHub Activity  
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed3Asem&theme=tokyonight&hide_border=true)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed3Asem&show_icons=true&hide=prs,issues&theme=tokyonight)
 
 ---
 
