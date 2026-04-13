@@ -30,8 +30,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmed3Asem&show_icons=true&hide=issues,prs&theme=tokyonight&count_private=true&include_all_commits=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed3Asem&theme=github-dark)
 
 ---
 
