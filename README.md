@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmed3Asem&show_icons=true&hide=issues,prs&theme=tokyonight)
+![Ahmed's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmed3Asem&show_icons=true&hide=issues,prs&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ---
 
