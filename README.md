@@ -31,7 +31,8 @@ Hi 👋, I'm Ahmed Asem
 
 📊 GitHub Activity
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed3Asem&theme=tokyonight&hide_border=true)
 
 ---
 
