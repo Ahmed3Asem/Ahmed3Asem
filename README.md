@@ -56,5 +56,5 @@ Passionate backend developer focused on building scalable and high-performance a
 
 📫 Contact Me
 
-- LinkedIn: (put your link here)
+- LinkedIn: linkedin.com/in/ahmad-asem
 - Email: asema3700@gmail.com
